@@ -1,9 +1,9 @@
 {
   "alert_keywords": ["bully", "depressed", "suicide", "hate", "threat", "kill", "death"],
   "email": {
-    "sender": "rajmahimaurya@gmail.com",
-    "password": "brxs ngnk hsth rgtm",
-    "receiver": "b23406@students.iitmandi.ac.in",
+    "sender": "mail@id",
+    "password": "pass@word",
+    "receiver": "mail@id",
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587
   },
