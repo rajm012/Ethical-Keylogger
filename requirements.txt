@@ -1,0 +1,8 @@
+pynput
+Pillow
+transformers
+schedule
+tf-keras
+pystray
+pillow
+tkinter
